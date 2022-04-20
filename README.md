@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kramrekwob
-I'm interested in full stack web development.
-Currently learning JS
-<---
-kramrekwob/kramrekwob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Mark Bowker, a front end web developer interested interesting in learning more about back end development.
+Currently building websites with React.js, Node, and Vanilla JS.
+
