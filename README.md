@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @kramrekwob
-I'm Mark Bowker, a front end web developer interested interesting in learning more about back end development.
-Currently building websites with React.js, Node, and Vanilla JS.
-
+  After a decade immersed in the science of fermentation, I have turned my sights to full stack web development.  In the brewing industry I found I loved fixing machines, finetuning processes, dialing in our recipes, and talking with the people who loved our products.  Itching to go deeper than diagnosing mechanical problems, I’m now seeking a role where I can learn to troubleshoot software  I started with vanilla Javascript, learned the basics of PHP and RESTful APIs, and am now learning front-end frameworks.  When I’m not coding I love beer, hiking, and live music.  
+  
