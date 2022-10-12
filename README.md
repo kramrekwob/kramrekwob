@@ -5,9 +5,9 @@
 
  - 🔭 I’m currently working on **Homebrew Heaven**
 
--🌱 I’m currently learning  **React**
+- 🌱 I’m currently learning  **React**
 
-📫 How to reach me **m.bowker422@gmail.com**
+- 📫 How to reach me **m.bowker422@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -16,11 +16,11 @@
 <a href="https://codepen.io/byebyefoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="byebyefoot" height="30" width="40" /></a>
 </p>
 
-emsp I am a software developer with a focus on responsive, front-end web development, seeking a role where I can create and troubleshoot software full time. I've built my functional understanding of the front-end of the coding space with HTML / CSS, Javascript, and I have built my back-end understanding with Node, Express, and MongoDB. I am currently honing my skills with front-end libraries like Bootstrap and frameworks such as React. 
+&emsp; I am a software developer with a focus on responsive, front-end web development, seeking a role where I can create and troubleshoot software full time. I've built my functional understanding of the front-end of the coding space with HTML / CSS, Javascript, and I have built my back-end understanding with Node, Express, and MongoDB. I am currently honing my skills with front-end libraries like Bootstrap and frameworks such as React. 
 
-emsp I've spent the past decade immersed in all things fermentation - I've been a brewer of beer, kombucha, and hard seltzer, and have built my career on a love for crowdsourcing + creating new ideas, fine tuning processes, and diagnosing / solving mechanical issues. Ready for the next challenge and itching to go deeper, I've turned my sights towards full stack web development.
+&emsp; I've spent the past decade immersed in all things fermentation - I've been a brewer of beer, kombucha, and hard seltzer, and have built my career on a love for crowdsourcing + creating new ideas, fine tuning processes, and diagnosing / solving mechanical issues. Ready for the next challenge and itching to go deeper, I've turned my sights towards full stack web development.
 
- emsp When I’m not coding I love hiking, live music, and yes - I still love beer.
+&emsp; When I’m not coding I love hiking, live music, and yes - I still love beer.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramrekwob&show_icons=true&locale=en&layout=compact" alt="kramrekwob" /></p>
