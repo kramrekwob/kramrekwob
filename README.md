@@ -23,7 +23,7 @@
 &emsp; When I’m not coding I love hiking, live music, and yes - I still love beer.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramrekwob&show_icons=true&locale=en&layout=compact" alt="kramrekwob" height="200"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kramrekwob&show_icons=true&locale=en&layout=compact" alt="kramrekwob" height="200"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kramrekwob&" alt="kramrekwob" height="200" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kramrekwob&" alt="kramrekwob" height="200" /></p>
 
