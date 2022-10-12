@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **m.bowker422@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/byebyefoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="byebyefoot" height="30" width="40" /></a>
 <a href="https://twitter.com/mark_bowker_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mark_bowker_dev" height="30" width="40"  margin-left="40"/></a>
-<a href="https://linkedin.com/in/markedwardbowker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markedwardbowker" height="30" width="40" margin-left="40" /></a>
+<a href="https://linkedin.com/in/markedwardbowker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markedwardbowker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
